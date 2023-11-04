@@ -27,5 +27,5 @@ python demo-face-mesh.py
 # Anaconda環境の作成
 
 ```
-conda env -n tech-ai-0914 -f ./tech-ai-0914.yaml
+conda env create -f ./tech-ai-0914.yaml
 ```
